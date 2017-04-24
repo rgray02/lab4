@@ -5,12 +5,29 @@
 	background-color: black;
 	width: 500px;
 	height: 500px;
+	float: left;
 }
 h1 {
 	color: red;
+	clear: both;
 }
 
 h2 {
 	color: gray;
 
 }
+
+.adobe {
+	align-content: right;
+}
+.quote {
+	
+	background-color: black;
+	color: white;
+	width: 250px;
+	float: left;
+	height: 300px;
+	margin-top: 200px;
+
+}
+
