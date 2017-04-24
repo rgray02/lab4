@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.black {
+	background-color: black;
+	width: 500px;
+	height: 500px;
+}
+h1 {
+	color: red;
+}
+
+h2 {
+	color: gray;
+
+}
